@@ -1,3 +1,5 @@
+# NOTE: REPO MOVED TO [talpalang/talpa](https://github.com/talpalang/talpa)
+
 # Talpa *a General Programming Language*
 
 > A WIP programming language designed to be compiled into many other languages.
